@@ -1,0 +1,1 @@
+GET / HTTP/1.1[crlf]Host: www.vpsdomain.com[crlf]Upgrade: websocket[crlf][crlf]
